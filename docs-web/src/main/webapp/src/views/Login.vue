@@ -228,6 +228,8 @@ async function handleForgot() {
       <div class="teedy-login-brand">
         <h1>teedy</h1>
         <p>{{ t('ui.document_management') }}</p>
+        <!-- 课程作业：在 Teedy logo 下方显示学生学号 -->
+        <div class="login-student-id" style="margin-top: 8px; font-size: 14px; opacity: .75;">学号：20260808070</div>
       </div>
 
       <!--

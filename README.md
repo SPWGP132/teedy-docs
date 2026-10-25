@@ -319,3 +319,10 @@ The `main` branch is the default and base branch for the project. It is used for
 
 Teedy is released under the terms of the GPL license. See `COPYING` for more
 information or see <http://opensource.org/licenses/GPL-2.0>.
+
+---
+
+## 学号信息（课程作业）
+
+- 学号：20260808070
+- 姓名：齐家荣
